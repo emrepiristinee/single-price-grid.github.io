@@ -2,5 +2,5 @@
 
 
 # Web Design
-![banner resmi](https://github.com/emrepiristinee/single-price-grid.github.io/blob/main/desktop-preview.jpg)
+![banner resmi](https://github.com/emrepiristinee/single-price-grid.github.io/blob/main/web-design.jpg)
 
